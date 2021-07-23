@@ -1,2 +1,0 @@
-# librecad
-my librecad projects
